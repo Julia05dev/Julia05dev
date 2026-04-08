@@ -1,4 +1,4 @@
-# Hi, I'm Julia 👋
+# Hi, I'm Julia
 
 I'm a Computer Science student focused on building practical systems using Java, with an emphasis on clean structure and real-world functionality.
 
