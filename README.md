@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**Julia05dev/Julia05dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on building practical systems using Java, with an emphasis on clean structure and real-world functionality.
 
-Here are some ideas to get you started:
+## 🚀 Current focus
+- Developing backend-oriented projects in Java  
+- Designing structured and maintainable code  
+- Building systems that simulate real-world use cases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+- Java  
+- C  
+- Python (basic)  
+- Git & GitHub  
+
+## 📌 Main Project
+🔹 Personal Finance System (Java)  
+A system designed to manage financial transactions, allowing users to register income and expenses, remove entries, and track current balance.
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/julia-neves05/
